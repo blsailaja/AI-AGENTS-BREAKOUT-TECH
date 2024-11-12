@@ -149,7 +149,7 @@ class DataLoader:
 def main():
     """Main application function."""
     # Page configuration
-    st.set_page_config(page_title="AI Agent Dashboard", layout="wide")
+    st.set_page_config(page_title="AI Insight Miner", layout="wide")
     
     # Initialize API clients
     api_clients = APIClients()
@@ -166,7 +166,7 @@ def main():
         st.session_state.results = None
     
     # Title
-    st.title("AI Agent Dashboard")
+    st.title("AI Insight Miner Dashboard")
     
     # Sidebar for data input
     st.sidebar.header("Data Input")
