@@ -10,6 +10,9 @@ AI Agent Dashboard is a web application that helps you extract and analyze infor
 
 Built with Streamlit, SerpAPI, Groq, and Google Sheets integration, this tool makes web research and data analysis simple and efficient.
 
+
+#### HAVE A LOOK ON HOW PROJECT WORKS ? CLICK HERE !!!
+https://www.awesomescreenshot.com/video/33505735?key=0330de7a9453cad777ce9335d1451d28
 ---
 
 ## Setup Instructions
